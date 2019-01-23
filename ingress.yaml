@@ -5,4 +5,4 @@ metadata:
 spec:
   backend:
     serviceName: sample-api-service
-    servicePort: 4000  
+    servicePort: 8080
